@@ -1,6 +1,6 @@
 # OECD API Downloader
 
-This project provides a set of Python classes to facilitate querying, collecting, and processing macro-econimic data from OECD.
+This project provides a set of Python classes to facilitate querying, collecting, and processing macroeconomic data from OECD.
 
 ## Classes Overview
 
